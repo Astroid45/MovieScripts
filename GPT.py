@@ -17,7 +17,7 @@ dropout = 0.0
 
 torch.manual_seed(1337)
 
-filenames = ['2023-200_most_used_passwords.txt']
+filenames = ['candyman-2021.txt', 'get-out-2017.txt', 'nope-2022.txt']
 text = ""
 
 for filename in filenames:
